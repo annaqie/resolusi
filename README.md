@@ -1,3 +1,4 @@
 # resolusi
-repo buat belajar (masi pemula)
-percobaan edit pertama
+repo buat belajar (masi pemula),
+percobaan edit pertama,
+percobaan edit kedua.
